@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFinderChallenge", "WordFinderChallenge.csproj", "{548A0A7B-6F9B-4ACD-9022-87BE72B58212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTests", "..\MatrixTests\MatrixTests.csproj", "{672410EF-3565-4D53-BDEB-247B8C1503D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548A0A7B-6F9B-4ACD-9022-87BE72B58212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A0A7B-6F9B-4ACD-9022-87BE72B58212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A0A7B-6F9B-4ACD-9022-87BE72B58212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A0A7B-6F9B-4ACD-9022-87BE72B58212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672410EF-3565-4D53-BDEB-247B8C1503D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672410EF-3565-4D53-BDEB-247B8C1503D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672410EF-3565-4D53-BDEB-247B8C1503D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672410EF-3565-4D53-BDEB-247B8C1503D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAA0D6A-68DA-4891-849C-2D677F614D22}
+	EndGlobalSection
+EndGlobal
